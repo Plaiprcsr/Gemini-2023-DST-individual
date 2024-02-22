@@ -10,6 +10,7 @@ public class Customer {
     private List<SalesInvoice> salesInvoices;
     private List<DealerInstalledOptions> dealerInstalledOptions;
     private TradeInVehicle tradeInVehicle;
+    private String testvar;
 
     public Customer(int customerId, String name, String address, String phone) {
         this.customerId = customerId;
