@@ -4,7 +4,7 @@ import java.util.List;
 public class SalesInvoice {
     private int invoiceID;
     private Salesperson salesperson;
-    private Vehicle vehicle; 
+    private Vehicle vehicle;
     private List<Customer> customers; 
     private TradeInVehicle tradeInVehicle;
     private List<DealerInstalledOptions> dealerInstalledOptions;

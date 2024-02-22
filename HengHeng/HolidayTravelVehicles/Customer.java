@@ -3,7 +3,7 @@ import java.util.List;
 
 public class Customer {
     private int customerId;
-    private String name;
+    private String name; 
     private String address;
     private String phone;
     private List<Vehicle> vehicles;

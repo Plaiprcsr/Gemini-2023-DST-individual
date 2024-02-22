@@ -3,7 +3,7 @@ public class TradeInVehicle {
     private String make;
     private String model;
     private int year;
-    private SalesInvoice salesInvoice; 
+    private SalesInvoice salesInvoice;  
     private Customer customer;
 
     public TradeInVehicle(String serialNumber, String make, String model, int year) {
