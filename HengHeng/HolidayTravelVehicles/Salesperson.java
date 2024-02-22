@@ -4,7 +4,7 @@ import java.util.List;
 public class Salesperson {
     private int salespersonId;
     private String name;
-    private List<SalesInvoice> salesInvoices;
+    private List<SalesInvoice> salesInvoices; 
 
     // Constructor
     public Salesperson(int salespersonId, String name) {
