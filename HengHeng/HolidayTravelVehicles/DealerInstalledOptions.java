@@ -4,7 +4,7 @@ import java.util.List;
 public class DealerInstalledOptions {
     private String optionCode;
     private String description;
-    private double price;
+    private double price; 
     private List<SalesInvoice> salesInvoices;
     private Customer customer;
 
