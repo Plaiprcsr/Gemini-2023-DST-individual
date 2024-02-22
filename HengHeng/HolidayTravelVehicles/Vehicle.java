@@ -6,7 +6,7 @@ public class Vehicle {
     private String model;
     private String year;
     private String manufacturer;
-    private int baseCost;
+    private int baseCost; 
     private List<Customer> customers; 
 
 
